@@ -1,2 +1,5 @@
 # Sentiment-Analysis-using-a-CNN
-Sentiment Analysis using a Convolutional Neural Network
+Sentiment Analysis using a Convolutional Neural Network (CNN)
+Sentiment Analysis, or opinion mining, is the process of determining whether language reflects positive, negative, or neutral sentiment. Using sentiment algorithms, developers and brand managers can gain insights into customer opinions about a topic. Sentiment analysis is probably one the most common applications in Natural Language processing (NLP).
+
+Traditional approaches frequently use the Bag Of Words (BOW) model, where a document is mapped to a feature vector, and then classified by machine learning techniques. Although the BOW approach is simple and quite efficient, a great deal of the information from the original natural language is lost (Xia & Zong, 2010), e.g., word order is disrupted and syntactic structures are broken. Therefore, various types of features have been exploited, such as higher order n-grams (Pak & Paroubek, 2010). Another kind of feature that can be used is Part Of Speech (POS) tagging, which is commonly used during a syntactic analysis process, as described in Gimpel et al. (2011).
